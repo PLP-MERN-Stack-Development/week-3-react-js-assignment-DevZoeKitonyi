@@ -184,10 +184,8 @@ To deploy this application:
    - Firebase Hosting
 
 ## 👨‍💻 Author
+- GitHub: DevZoeKitonyi
 
-[Your Name]
-- GitHub: [Your GitHub Profile]
-- Email: [Your Email]
 
 ## 📄 License
 
@@ -203,5 +201,7 @@ This project is part of a React.js assignment and is for educational purposes.
 ![Dashboard](./images/file:///C:/Users/user/Pictures/Screenshots/Screenshot%202025-06-24%20145208.png)
 
 ### Task Management
-![Tasks](./images/tasks.png)
+![Tasks](./images/file:///C:/Users/user/Pictures/tasknmanager.png)
 
+### Contact
+![Tasks](./images/file:///C:/Users/user/Pictures/tasknmanager.png)
