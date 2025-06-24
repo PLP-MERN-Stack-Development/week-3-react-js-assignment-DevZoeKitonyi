@@ -196,8 +196,8 @@ This project is part of a React.js assignment and is for educational purposes.
 
 # Screenshots
 
-### Login Page
-![Login](./images/login.png)
+### Main Page
+![Login](./images/file:///C:/Users/user/Pictures/Screenshots/Screenshot%202025-06-24%20145147.png)
 
 ### Dashboard
 ![Dashboard](./images/file:///C:/Users/user/Pictures/Screenshots/Screenshot%202025-06-24%20145208.png)
