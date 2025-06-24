@@ -4,7 +4,7 @@ This project is a comprehensive React application built with Vite and styled wit
 
 ## 🚀 Live Demo
 
-[Add your deployed application URL here]
+https://quiet-gelato-4c2031.netlify.app/
 
 ## 📋 Features
 
