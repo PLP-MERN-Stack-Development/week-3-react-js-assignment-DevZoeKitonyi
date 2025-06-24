@@ -204,4 +204,4 @@ This project is part of a React.js assignment and is for educational purposes.
 ![Tasks](./images/file:///C:/Users/user/Pictures/tasknmanager.png)
 
 ### Contact
-![Tasks](./images/file:///C:/Users/user/Pictures/)
+![Tasks](./images/file:///C:/Users/user/Pictures/contact.png)
