@@ -192,3 +192,16 @@ To deploy this application:
 ## 📄 License
 
 This project is part of a React.js assignment and is for educational purposes.
+
+
+# Screenshots
+
+### Login Page
+![Login](./images/login.png)
+
+### Dashboard
+![Dashboard](./images/file:///C:/Users/user/Pictures/Screenshots/Screenshot%202025-06-24%20145208.png)
+
+### Task Management
+![Tasks](./images/tasks.png)
+
